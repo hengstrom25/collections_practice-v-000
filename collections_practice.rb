@@ -24,5 +24,7 @@ def reverse_array(array)
 end
 
 def kesha_maker(array)
+  array = (array)
   array[2] = "$"
+  puts "array"
 end
