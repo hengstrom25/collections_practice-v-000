@@ -25,5 +25,5 @@ end
 
 def kesha_maker(array)
   array.collect do |letters|
-    
+    letter[2] = "$"
 end
