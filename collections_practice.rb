@@ -29,3 +29,5 @@ def kesha_maker(array)
     letters
   end
 end
+
+def find_a(array)
