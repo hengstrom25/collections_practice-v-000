@@ -11,7 +11,6 @@ def sort_array_desc(integers)
 end
 
 def sort_array_char_count(array)
-  array.sort_by do {|word|
-    word.length}
+  array.sort_by { |word| word.length }
   end
 end
